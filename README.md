@@ -14,3 +14,10 @@ Run the following command:
 ```bash
 curl -s https://raw.githubusercontent.com/spitemim/glava-config/main/install.sh | sh
 ```
+ 
+**Start GLava**
+GLava can be embedded on your desktop by running GLava with the desktop flag, as shown below:
+```bash
+glava --desktop
+```
+You will have to check how to start GLava on startup in your distro, as it varies by desktop environment, window manager, init system, etc.
