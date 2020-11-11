@@ -12,4 +12,5 @@ Make sure you have the following installed:
 **Installation**
 Run the following command:
 ```bash
-curl -s https://raw.githubusercontent.com/spitemim/glava-config/main/install.sh | sh```
+curl -s https://raw.githubusercontent.com/spitemim/glava-config/main/install.sh | sh
+```
