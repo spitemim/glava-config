@@ -10,5 +10,6 @@ Make sure you have the following installed:
 - Curl
 
 **Installation**
-Run the following command with root permissions:
-`# curl -s https://raw.githubusercontent.com/spitemim/glava-config/main/install.sh | sh`
+Run the following command:
+
+`curl -s https://raw.githubusercontent.com/spitemim/glava-config/main/install.sh | sh`
